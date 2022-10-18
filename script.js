@@ -66,7 +66,7 @@ b: "vařit",
 
 correct: "a",
 },{
-  question: "11. Zlá královná záviděla Sněhurce její:",
+  question: "11. Zlá královna záviděla Sněhurce její:",
   a: "krásu",
   b: "hračky",
   
